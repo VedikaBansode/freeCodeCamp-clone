@@ -1,0 +1,71 @@
+body{
+    background-color:#151535;
+    color: rgb(243, 246, 249);
+}
+nav {
+    display: block;
+    height: 40px;
+    padding-top: 3px;
+    padding-left: 5px;
+}
+.bluebg {
+    background-color: #040423;
+}
+#headb {
+    color: white;
+    text-decoration: none;
+    width: 75px;
+    height: 40px;
+    margin-left: 1250px;
+}
+#signin {
+    background-color: rgb(234, 179, 50); 
+    color: #151535;
+    text-decoration: none;
+    float: right;
+    border-style: groove;
+    border-color: #040423;
+}
+.graybg {
+    background-color: #6e6e86;
+}
+.headings {
+    text-align: center;
+    font-size: 50px;
+}
+#subhead {
+    font-size: 23px;
+}
+#btn {
+    background-color: rgb(234, 179, 50);
+    color: #151535;
+    font-size: 25px;
+    padding-top:0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.alumInfo {
+    font-size: 25px;
+}
+.alumExp {
+    font-size: 20px;
+}
+.btns {
+    display: block;
+    width: 700px;
+    height: 40px;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #6e6e86;
+    color: white;
+}
+.btns:hover {
+    background-color: white;
+    color: #6e6e86;
+}
+.foot {
+    margin-left: 350px;
+    margin-right: 350px;
+}

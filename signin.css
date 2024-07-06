@@ -1,0 +1,13 @@
+.cont {
+    display: block;
+    width: 500px;
+    height: 25px;
+    padding: 1%;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(210, 221, 230);
+}
+body {
+    background-color: #151535;
+    color: white;
+}
